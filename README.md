@@ -1,11 +1,20 @@
 # teamproject-
 팀프로젝트 주소
-https://hangeunyoung.github.io/teamproject-/
+https://gleeful-marigold-309e16.netlify.app
 
-팀 작업 수정 완료!@@@@@@!!!!@!@!@!@
+팀 작업 완료!
+나의 역할
+1, 홈페이지 메인 칼라정하기 
+2, 홈페이지 베너 제작 
+3, 서브페이지 “운용철학”제작
 
-1. 깃허브에서 팀장 프로젝트(repository) Fork(복사) 하기
-2. VSCODE에서 clone으로 내PC로 가져오기
-3. 수정작업 후 VSCODE에서 commit, commit 메시지 입력
-4. commit 하려면 터미널창에 입력  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+주요 포인트
+1, 베너와 내용의 구분 
+기존 홈페이지에 있는 내용을 베너와 분리하고 베너의 느낌을 살리려고 했습니다.  
+
+2, 주요 키워드 확보 
+키워드만 잘 잡아도 내용의 집중력을 향상 시킬수 가 있습니다.  키워드를 잡으려고 노력했습니다.  
+
+3, 가독성과 심미성 확보 
+글이 많아도 잘 읽을수 있는게 있는 반면  글이 없어도 글이 잘 않보이는게 있습니다.  글씨, 배경, 위치 등 보기에도 편하고 내용 전달이 좋게 하려고 했습니다. 
+
